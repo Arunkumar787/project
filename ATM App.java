@@ -79,7 +79,6 @@ public class AtmApp {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Updated customer details
         String name = "Arun";
         int cid = 31052004;
         String accno = "xxxxxxx2416";
